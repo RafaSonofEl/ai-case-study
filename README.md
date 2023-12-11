@@ -2,10 +2,10 @@
 
 ## Overview and Origin
 
-Name of company
+* Name of company
 --- 2017
 
-When was the company incorporated?
+* When was the company incorporated?
 --- 2017
 
 | * Who are the founders of the company? |  |
@@ -16,7 +16,7 @@ When was the company incorporated?
 | 4. Joe | Chen |
 | 5. Brian | Schimpf |
 
-* How did the idea for the company (or project) come about?
+#* How did the idea for the company (or project) come about?
 --- Bloomberg Businessweek credits Palantir Technologies, a data analytics company that contracts with intelligence agencies, for helping usher in more open government relations with startups for military contracts. [^1]; 2015, Defense Secretary Ashton Carter took measures to send more government contracts to "nontraditional" defense companies.
 
 * How is the company funded? How much funding have they received?
