@@ -16,7 +16,7 @@
 5. Brian Schimpf
 
 * How did the idea for the company (or project) come about?
---- Bloomberg Businessweek credits Palantir Technologies, a data analytics company that contracts with intelligence agencies, for helping usher in more open government relations with startups for military contracts [^1}; 2015, Defense Secretary Ashton Carter took measures to send more government contracts to "nontraditional" defense companies.
+--- Bloomberg Businessweek credits Palantir Technologies, a data analytics company that contracts with intelligence agencies, for helping usher in more open government relations with startups for military contracts [^1]; 2015, Defense Secretary Ashton Carter took measures to send more government contracts to "nontraditional" defense companies.
   [^1] Brustein, Joshua (October 3, 2019). "Tech's Most Controversial Startup Now Makes Drone-Killing Robots". Bloomberg Businessweek. Retrieved July 26, 2021.
 
 * How is the company funded? How much funding have they received?
