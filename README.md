@@ -42,9 +42,10 @@
 ## Landscape
 
 ### What field is the company in?
-Defense
+*Defense*
 
-### What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+### What have been the major trends and innovations of this field over the last 5&ndash;10 years? 
+--- *N/A*
 
 
 ### What are the other major companies in this field?
@@ -59,21 +60,21 @@ Defense
 
 
 ### How is your company performing relative to competitors in the same field?
-Anduril has 419 competitors and currently ranks 2nd, per Tracxn.
+*Anduril has 419 competitors and currently ranks 2nd, per Tracxn.*
 
 ## Recommendations
 
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
+--- *N/A*
 
 ### Why do you think that offering this product or service would benefit the company?
-
+--- *N/A* 
 
 ### What technologies would this additional product or service utilize?
-The top three products and patents that they sell/hold pertain to diagrams, sensors, and digital photography. 
+*The top three products and patents that they sell/hold pertain to diagrams, sensors, and digital photography. However, for Anduril to maintain their competitive edge they should invest in building a network of efficient shipping partners and they should establish a global infrastructure system that circumvents traditional shipping lanes/routes to maintain quick product delivery for their customers during crucial geopolitical conflicts and to avoid bottle necking.*
 
 ### Why are these technologies appropriate for your solution?
-
+--- *N/A*
 ## Bibliography
 1. [^1](https://www.bloomberg.com/news/features/2019-10-03/tech-s-most-controversial-startup-now-makes-attack-drones) Brustein, Joshua (October 3, 2019). "Tech's Most Controversial Startup Now Makes Drone-Killing Robots". Bloomberg Businessweek. Retrieved July 26, 2021.
 2. 
