@@ -17,7 +17,6 @@
 
 * How did the idea for the company (or project) come about?
 --- Bloomberg Businessweek credits Palantir Technologies, a data analytics company that contracts with intelligence agencies, for helping usher in more open government relations with startups for military contracts [^1]; 2015, Defense Secretary Ashton Carter took measures to send more government contracts to "nontraditional" defense companies.
-  [^1] Brustein, Joshua (October 3, 2019). "Tech's Most Controversial Startup Now Makes Drone-Killing Robots". Bloomberg Businessweek. Retrieved July 26, 2021.
 
 * How is the company funded? How much funding have they received?
 Private investors - e.g., Valor Equity Partners, Founders Fund, Andreessen Horowitz, General Catalyst, 8VC, Lux Capital, Thrive Capital, DFJ Growth, Elad Gil, Lachy Groom, Human Capital, Marlinspike, WCM Investment Management, MVP Ventures, Lightspeed Ventures, and Innovative Technology Fund (USIT); $2.309 billion total, per CB Insights.
@@ -76,6 +75,6 @@ The top three products and patents that they sell/hold pertain to diagrams, sens
 * Why are these technologies appropriate for your solution?
 
 ## Bibliography
-[^1](https://www.bloomberg.com/news/features/2019-10-03/tech-s-most-controversial-startup-now-makes-attack-drones)
+[^1](https://www.bloomberg.com/news/features/2019-10-03/tech-s-most-controversial-startup-now-makes-attack-drones) Brustein, Joshua (October 3, 2019). "Tech's Most Controversial Startup Now Makes Drone-Killing Robots". Bloomberg Businessweek. Retrieved July 26, 2021.
 
 # ai-case-study
