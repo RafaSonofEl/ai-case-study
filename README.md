@@ -9,11 +9,11 @@
 
 | * Who are the founders of the company? |  |
 | ----------- | ----------- |
-| 1. Palmer Luckey | Luckey |
-| 2. Trae Stephens | Stephens |
-| 3. Matt Grimm | Grimm |
-| 4. Joe Chen | Chen |
-| 5. Brian Schimpf | Schimpf |
+| 1. Palmer Luckey |  |
+| 2. Trae Stephens |  |
+| 3. Matt Grimm |  |
+| 4. Joe Chen |  |
+| 5. Brian Schimpf |  |
 
 * How did the idea for the company (or project) come about?
 --- Bloomberg Businessweek credits Palantir Technologies, a data analytics company that contracts with intelligence agencies, for helping usher in more open government relations with startups for military contracts [^1]; 2015, Defense Secretary Ashton Carter took measures to send more government contracts to "nontraditional" defense companies.
