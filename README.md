@@ -5,6 +5,8 @@
 * Name of company
 --- Anduril
 
+| Name of company | Anduril |
+
 * When was the company incorporated?
 --- 2017
 
