@@ -21,6 +21,10 @@
 * How is the company funded? How much funding have they received?
 Private investors - e.g., Valor Equity Partners, Founders Fund, Andreessen Horowitz, General Catalyst, 8VC, Lux Capital, Thrive Capital, DFJ Growth, Elad Gil, Lachy Groom, Human Capital, Marlinspike, WCM Investment Management, MVP Ventures, Lightspeed Ventures, and Innovative Technology Fund (USIT); $2.309 billion total, per CB Insights.
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 ## Business Activities
 
