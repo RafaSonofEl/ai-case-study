@@ -6,7 +6,7 @@
 - Anduril
 
 * When was the company incorporated?
-- 2017
+--- 2017
 
 * Who are the founders of the company?
 1. Palmer Luckey
