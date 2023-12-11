@@ -8,6 +8,7 @@
 --- 2017
 
 * Who are the founders of the company?
+| ----------- | ----------- |
 | 1. Palmer Luckey |
 | 2. Trae Stephens | 
 | 3. Matt Grimm |
