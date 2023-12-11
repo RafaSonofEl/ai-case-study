@@ -20,7 +20,7 @@
 *Bloomberg Businessweek credits Palantir Technologies, a data analytics company that contracts with intelligence agencies, for helping usher in more open government relations with startups for military contracts; 2015, Defense Secretary Ashton Carter took measures to send more government contracts to "nontraditional" defense companies. [^1]*
 
 ### How is the company funded? How much funding have they received?
-*Private investors - e.g., Valor Equity Partners, Founders Fund, Andreessen Horowitz, General Catalyst, 8VC, Lux Capital, Thrive Capital, DFJ Growth, Elad Gil, Lachy Groom, Human Capital, Marlinspike, WCM Investment Management, MVP Ventures, Lightspeed Ventures, and Innovative Technology Fund (USIT); $2.309 billion total, per CB Insights.*
+*Private investors - e.g., Valor Equity Partners, Founders Fund, Andreessen Horowitz, General Catalyst, 8VC, Lux Capital, Thrive Capital, DFJ Growth, Elad Gil, Lachy Groom, Human Capital, Marlinspike, WCM Investment Management, MVP Ventures, Lightspeed Ventures, and Innovative Technology Fund (USIT) [^2]; $2.309 billion total, per CB Insights.*
 
 ## Business Activities
 
@@ -77,6 +77,7 @@
 --- *N/A*
 ## Bibliography
 1. [^1](https://www.bloomberg.com/news/features/2019-10-03/tech-s-most-controversial-startup-now-makes-attack-drones) Brustein, Joshua (October 3, 2019). "Tech's Most Controversial Startup Now Makes Drone-Killing Robots". Bloomberg Businessweek. Retrieved July 26, 2021.
-2. 
+2. [^2](https://news.crunchbase.com/ai-robotics/anduril-funding-valuation-palmer-luckey-defense-tech/) Metinko, Chris (October 4, 2023). "Anduril Looking To Raise As Much as $500M - Report". Crunchbase News. Retrieved December 2, 2023.
+3. 
 
 # ai-case-study
