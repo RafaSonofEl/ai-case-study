@@ -1,11 +1,11 @@
-### AI Case Study: Anduril
+# AI Case Study: Anduril
 
 ## Overview and Origin
 
-# Name of company
+### Name of company
 --- 2017
 
-# When was the company incorporated?
+### When was the company incorporated?
 --- 2017
 
 | * Who are the founders of the company? |  |
