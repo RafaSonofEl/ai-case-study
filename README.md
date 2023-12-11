@@ -76,5 +76,6 @@ The top three products and patents that they sell/hold pertain to diagrams, sens
 * Why are these technologies appropriate for your solution?
 
 ## Bibliography
+[^1](https://www.bloomberg.com/news/features/2019-10-03/tech-s-most-controversial-startup-now-makes-attack-drones)
 
 # ai-case-study
