@@ -74,4 +74,7 @@ Anduril has 419 competitors and currently ranks 2nd, per Tracxn.
 The top three products and patents that they sell/hold pertain to diagrams, sensors, and digital photography. 
 
 * Why are these technologies appropriate for your solution?
+
+## Bibliography
+
 # ai-case-study
