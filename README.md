@@ -2,9 +2,10 @@
 
 ## Overview and Origin
 
-| Name of company | Anduril |
+Name of company
+--- 2017
 
-| When was the company incorporated? | 2017
+When was the company incorporated?
 --- 2017
 
 | * Who are the founders of the company? |  |
