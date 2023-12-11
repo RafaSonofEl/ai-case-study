@@ -25,7 +25,7 @@
 ## Business Activities
 
 ### What specific problem is the company or project trying to solve?
-*“Anduril is a technology partner, not an equipment provider,” said Brian Schimpf. “Security threats are evolving faster than the DOD can keep pace. In order to really outmaneuver emerging threats we need to move past just efficiencies and create clear step changes in capability, quickly. Anduril has proven that that our model — recruiting talented engineers, building quickly and efficiently using venture dollars, and selling next-generation technology off the shelf to the government — works. And that with the right technology and incentives the government can be a nimble customer.”*
+*“Anduril is a technology partner, not an equipment provider,” said Brian Schimpf. “Security threats are evolving faster than the DOD can keep pace. In order to really outmaneuver emerging threats we need to move past just efficiencies and create clear step changes in capability, quickly. Anduril has proven that that our model — recruiting talented engineers, building quickly and efficiently using venture dollars, and selling next-generation technology off the shelf to the government — works. And that with the right technology and incentives the government can be a nimble customer.” [^3]*
 
 ### Who is the company's intended customer? Is there any information about the market size of this set of customers?
 *U.S. Department of Defense; Allied Military Forces*
@@ -78,6 +78,7 @@
 ## Bibliography
 1. [^1](https://www.bloomberg.com/news/features/2019-10-03/tech-s-most-controversial-startup-now-makes-attack-drones) Brustein, Joshua (October 3, 2019). "Tech's Most Controversial Startup Now Makes Drone-Killing Robots". Bloomberg Businessweek. Retrieved July 26, 2021.
 2. [^2](https://news.crunchbase.com/ai-robotics/anduril-funding-valuation-palmer-luckey-defense-tech/) Metinko, Chris (October 4, 2023). "Anduril Looking To Raise As Much as $500M - Report". Crunchbase News. Retrieved December 2, 2023.
-3. 
+3. [^3](https://blog.anduril.com/anduril-raises-1-48-billion-in-series-e-funding-ac8c7299d182#:~:text=“Anduril%20is%20a%20technology%20partner,step%20changes%20in%20capability%2C%20quickly.) Anduril Industries (December 1, 2022). "Anduril Raises $1.48 Billion in Series E Funding". Anduril Blog. Retrieved December 1, 2023.
+4. 
 
 # ai-case-study
