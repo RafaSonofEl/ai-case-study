@@ -1,6 +1,6 @@
 # AI Case Study: Anduril
 
-![alt text]([image.jpg](http://anduril.com/))
+([image.jpg](http://anduril.com/))
 
 ## Overview and Origin
 
