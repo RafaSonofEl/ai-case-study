@@ -11,7 +11,7 @@
 ### When was the company incorporated?
 ### 2017
 
-| * Who are the founders of the company? |  |
+| Who are the founders of the company? |  |
 | ----------- | ----------- |
 | 1. Palmer Luckey | Co-founder, CEO |
 | 2. Trae Stephens | Co-founder, Executive Chairman |
