@@ -1,5 +1,7 @@
 # AI Case Study: Anduril
 
+![alt text]([image.jpg](http://anduril.com/))
+
 ## Overview and Origin
 
 ### Name of company
@@ -85,7 +87,5 @@ By providing a hyperfocus on their business logistics and preserving the transpo
 9. [^9](https://tracxn.com/d/companies/anduril/__qqOI0HKR47lFXorj9FAQlDfmJOqfOpDNWiW3JcO--ss/competitors) Tracxn. Retrieved December 30, 2023.
 10. [^10](https://research.contrary.com/reports/anduril) Bello, Nicholas. Anderson, Cory (April 11, 2023). "Memo: Anduril Industries". Contrary Research. Retrieved December 30, 2023.
 11. [^11](https://tracxn.com/d/companies/anduril/__qqOI0HKR47lFXorj9FAQlDfmJOqfOpDNWiW3JcO--ss/competitors) Tracxn. Retrieved December 30, 2023.
-
-X^2^Ford Foundation
 
 # ai-case-study
