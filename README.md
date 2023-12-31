@@ -1,6 +1,6 @@
 # AI Case Study: Anduril
 
-![image](https://github.com/RafaSonofEl/ai-case-study/assets/151501442/01c46ac6-903d-4848-9299-29a7dacd5bc7).jpg
+![image](https://github.com/RafaSonofEl/ai-case-study/assets/151501442/01c46ac6-903d-4848-9299-29a7dacd5bc7)
 
 
 ## Overview and Origin
