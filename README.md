@@ -1,6 +1,7 @@
 # AI Case Study: Anduril
 
-([image.jpg]([http://anduril.com/](https://i.tracxn.com/logo/company/Selection_232_1524028169630.png?height=120&width=120)))
+![image](https://github.com/RafaSonofEl/ai-case-study/assets/151501442/01c46ac6-903d-4848-9299-29a7dacd5bc7).jpg
+
 
 ## Overview and Origin
 
