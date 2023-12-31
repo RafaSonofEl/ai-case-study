@@ -17,7 +17,7 @@
 | 5. Brian Schimpf | Co-founder, President |
 
 ### How did the idea for the company (or project) come about?
-*Bloomberg Businessweek credits Palantir Technologies, a data analytics company that contracts with intelligence agencies, for helping usher in more open government relations with startups for military contracts; 2015, Defense Secretary Ashton Carter took measures to send more government contracts to "nontraditional" defense companies. [^1]*
+*Bloomberg Businessweek credits Palantir Technologies, a data analytics company that contracts with intelligence agencies, for helping usher in more open government relations with startups for military contracts; 2015, Defense Secretary Ashton Carter took measures to send more government contracts to "nontraditional" defense companies.* [^1]
 
 ### How is the company funded? How much funding have they received?
 *Private investors - e.g., Valor Equity Partners, Founders Fund, Andreessen Horowitz, General Catalyst, 8VC, Lux Capital, Thrive Capital, DFJ Growth, Elad Gil, Lachy Groom, Human Capital, Marlinspike, WCM Investment Management, MVP Ventures, Lightspeed Ventures, and Innovative Technology Fund (USIT) [^2]; $2.309 billion total, per CB Insights.* [^3]
@@ -76,8 +76,14 @@ By providing a hyperfocus on their business logistics and preserving the transpo
 ## Bibliography
 1. [^1](https://www.bloomberg.com/news/features/2019-10-03/tech-s-most-controversial-startup-now-makes-attack-drones) Brustein, Joshua (October 3, 2019). "Tech's Most Controversial Startup Now Makes Drone-Killing Robots". Bloomberg Businessweek. Retrieved July 26, 2021.
 2. [^2](https://news.crunchbase.com/ai-robotics/anduril-funding-valuation-palmer-luckey-defense-tech/) Metinko, Chris (October 4, 2023). "Anduril Looking To Raise As Much as $500M - Report". Crunchbase News. Retrieved December 2, 2023.
-3. [^3] (https://www.cbinsights.com/company/anduril) 
+3. [^3](https://www.cbinsights.com/company/anduril) CB Insights. Retrieved December 15, 2023.
 4. [^4](https://blog.anduril.com/anduril-raises-1-48-billion-in-series-e-funding-ac8c7299d182#:~:text=“Anduril%20is%20a%20technology%20partner,step%20changes%20in%20capability%2C%20quickly.) Anduril Industries (December 1, 2022). "Anduril Raises $1.48 Billion in Series E Funding". Anduril Blog. Retrieved December 1, 2023.
-5. [^5]
+5. [^5](https://www.anduril.com/mission/) Retrieved December 15, 2023.
+6. [^6](https://blog.anduril.com/anduril-launches-menace-8a3ad854c8e0) Anduril Industries (September 15, 2022). "Anduril Launches Menace". Medium. Retrieved December 1, 2023.
+7. [^7](https://dsm.forecastinternational.com/2023/08/03/insider-insights-key-defense-industry-trends-and-projections/) Forecast International (August 3, 2023). "Insider Insights: Key Defense Industry Trends and Projections - July 2023". Defense and Security Monitor: Insights from Forecast International. Retrieved December 15, 2023.
+8. [^8](https://media.defense.gov/2022/Feb/15/2002939087/-1/-1/1/STATE-OF-COMPETITION-WITHIN-THE-DEFENSE-INDUSTRIAL-BASE.PDF) Department of Defense, Office of the Under Secretary of Defense for Acquisition and Sustainment (February 2022). "State of Competition within the Defense Industrial Base". Retrieved December 15, 2023.
+9. [^9](https://tracxn.com/d/companies/anduril/__qqOI0HKR47lFXorj9FAQlDfmJOqfOpDNWiW3JcO--ss/competitors) Tracxn. Retrieved December 30, 2023.
+10. [^10](https://research.contrary.com/reports/anduril) Bello, Nicholas. Anderson, Cory (April 11, 2023). "Memo: Anduril Industries". Contrary Research. Retrieved December 30, 2023.
+11. [^11](https://tracxn.com/d/companies/anduril/__qqOI0HKR47lFXorj9FAQlDfmJOqfOpDNWiW3JcO--ss/competitors) Tracxn. Retrieved December 30, 2023.
 
 # ai-case-study
